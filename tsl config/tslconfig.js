@@ -1,0 +1,1 @@
+[{"groupId":"120363040771616257@g.us","comandos":[]},{"groupId":"120363044318621145@g.us","comandos":[]},{"groupId":"120363040969964100@g.us","comandos":[]},{"groupId":"120363023678518498@g.us","comandos":[]}]
